@@ -1,0 +1,72 @@
+body {
+    margin: 0 10%;
+}
+
+header {
+    color: rgb(41, 18, 246)
+}
+
+.container {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px auto;
+}
+
+div {
+    display: block;
+}
+
+.color-container {
+    width: 100%;
+    margin: auto;
+}
+
+.row1 .color-panel {
+    display:inline-block;
+    padding: 20px;
+    margin: 10px auto;
+    margin-left: 9.5%;
+}
+
+.row2 .color-panel {
+    display:inline-block;
+    padding: 20px;
+    margin: 10px auto;
+    margin-left: 9.5%;
+}
+
+.color-panel {
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.turquoise {
+    background-color: #00ffec;
+    color: rgb(0, 0, 0);
+}
+
+.lavender {
+    background-color: #B69CD8;
+    color: #fff;
+}
+
+.mint-green {
+    background-color: #BCD6A2;
+    color: #fff;
+}
+
+.pink {
+    background-color: #FF9FFF;
+    color: rgb(0, 0, 0);
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
